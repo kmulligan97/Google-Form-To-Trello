@@ -38,7 +38,7 @@ go down for an extended period of time.
     (Select function->init, then hit the "Run" button)
 
 ### Example links
-The provided connect_to_trello.gs template is the script used for the following
+The provided connect_to_trello_template.gs template is the script used for the following
 example Trello board and Google Form
 - [Example Google Script](./connect_to_trello_template.gs)
 - [Example Trello board](https://trello.com/b/tsOZ9frN/ticket-queue)
